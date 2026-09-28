@@ -1,0 +1,128 @@
+name,zone,latitude,longitude,price_2026
+Lavelle Road,Central,12.9698,77.5960,27200
+Sadashivanagar,Central,13.0068,77.5810,24200
+Cunningham Road,Central,12.9884,77.5920,22000
+Vasanth Nagar,Central,12.9880,77.5890,20500
+Indiranagar,Central,12.9719,77.6412,19500
+MG Road,Central,12.9758,77.6045,18350
+Richmond Town,Central,12.9603,77.6010,17500
+Benson Town,Central,13.0000,77.6030,15000
+Seshadripuram,Central,12.9930,77.5760,15000
+Ulsoor,Central,12.9800,77.6250,14150
+Domlur,Central,12.9611,77.6387,13500
+HAL,Central,12.9600,77.6490,12000
+Frazer Town,Central,12.9980,77.6180,11500
+Cooke Town,Central,13.0010,77.6250,11000
+Old Airport Road,Central,12.9600,77.6640,11000
+Jeevan Bhima Nagar,Central,12.9660,77.6540,10500
+Cox Town,Central,12.9970,77.6150,9000
+Haralur Road,East,12.9080,77.6790,16500
+Hoodi,East,12.9920,77.7160,15500
+Bellandur,East,12.9257,77.6649,15000
+Mahadevapura,East,12.9920,77.6870,15000
+Marathahalli,East,12.9591,77.6974,14200
+Kundalahalli,East,12.9640,77.7150,14000
+Gunjur,East,12.9100,77.7400,14000
+Immadihalli,East,12.9750,77.7360,13600
+Kasavanahalli,East,12.9010,77.6700,13300
+Varthur Lake,East,12.9430,77.7420,13050
+HSR Layout,East,12.9116,77.6389,13000
+Brookefield,East,12.9660,77.7170,12800
+Whitefield,East,12.9698,77.7500,12500
+Carmelaram,East,12.9030,77.6900,12200
+Sarjapur Road,East,12.9080,77.6940,12000
+Panathur,East,12.9370,77.6960,12000
+Munnekollala,East,12.9600,77.7050,11500
+Doddanekkundi,East,12.9780,77.6960,11000
+Varthur,East,12.9400,77.7480,10000
+CV Raman Nagar,East,12.9850,77.6630,10000
+Kadugodi,East,12.9930,77.7600,9600
+Hope Farm,East,12.9880,77.7490,9500
+Thubarahalli,East,12.9560,77.7050,8000
+KR Puram,East,13.0070,77.6980,7700
+Channasandra,East,13.0050,77.7520,7500
+Seegehalli,East,13.0080,77.7660,7200
+Ramamurthy Nagar,East,13.0130,77.6780,6600
+Battarahalli,East,13.0180,77.7130,6000
+Hoskote,East,13.0708,77.7986,3500
+Koramangala,South,12.9350,77.6260,15600
+Jayanagar,South,12.9250,77.5938,15400
+JP Nagar Phase 8,South,12.8890,77.5800,12500
+Kudlu Gate,South,12.8880,77.6420,12450
+JP Nagar Phase 7,South,12.8960,77.5840,12250
+Uttarahalli,South,12.9080,77.5460,12050
+Basavanagudi,South,12.9420,77.5740,11738
+Padmanabhanagar,South,12.9200,77.5560,11150
+Hosa Road,South,12.8760,77.6540,10885
+BTM Layout,South,12.9166,77.6101,10500
+JP Nagar,South,12.9077,77.5851,10450
+Begur,South,12.8720,77.6260,10250
+Kumaraswamy Layout,South,12.9070,77.5580,9800
+Bannerghatta Road,South,12.8880,77.5970,9650
+Akshayanagar,South,12.8790,77.6030,9550
+Banashankari,South,12.9255,77.5468,9500
+Girinagar,South,12.9370,77.5480,9500
+Electronic City Phase 1,South,12.8440,77.6640,9000
+Gottigere,South,12.8590,77.5880,8650
+Bilekahalli,South,12.8940,77.6060,8500
+Arekere,South,12.8860,77.5980,8400
+Kanakapura Road,South,12.8900,77.5560,8050
+Singasandra,South,12.8790,77.6410,8050
+Konanakunte,South,12.8790,77.5580,8000
+Electronic City Phase 2,South,12.8360,77.6800,8000
+Hulimavu,South,12.8820,77.5990,7350
+Bommanahalli,South,12.8990,77.6200,7100
+Attibele,South,12.7783,77.7727,6250
+Hongasandra,South,12.8900,77.6280,5900
+Chandapura,South,12.8020,77.7050,4450
+Anekal,South,12.7110,77.6960,4350
+Jigani,South,12.8047,77.6367,3700
+Hebbal,North,13.0358,77.5970,15950
+Yeshwanthpur,North,13.0230,77.5540,12100
+Jakkur,North,13.0770,77.6060,12000
+Amruthahalli,North,13.0640,77.5960,11850
+Rachenahalli,North,13.0640,77.6220,11600
+Nagavara,North,13.0430,77.6200,11450
+Thanisandra,North,13.0560,77.6300,11400
+Sanjay Nagar,North,13.0300,77.5720,10600
+Hennur,North,13.0300,77.6400,10350
+Kogilu,North,13.0840,77.6060,10250
+Kannur,North,13.0880,77.6450,10050
+Bagalur,North,13.1260,77.6640,9700
+Devanahalli,North,13.2480,77.7130,9500
+Sampigehalli,North,13.0700,77.6180,9450
+Sahakara Nagar,North,13.0620,77.5790,9400
+HBR Layout,North,13.0280,77.6230,9200
+Kodigehalli,North,13.0560,77.5860,9000
+Mathikere,North,13.0330,77.5610,9000
+Yelahanka New Town,North,13.1010,77.5960,8500
+Banaswadi,North,13.0140,77.6510,8500
+Kammanahalli,North,13.0140,77.6370,8400
+RT Nagar,North,13.0210,77.5940,8200
+Kalyan Nagar,North,13.0220,77.6400,7900
+Doddaballapur Road,North,13.1500,77.5700,7500
+Yelahanka,North,13.0980,77.5820,7458
+Horamavu,North,13.0280,77.6580,7200
+Shettigere,North,13.2280,77.6590,7000
+Chikkajala,North,13.1560,77.6180,6500
+Vidyaranyapura,North,13.0770,77.5540,6200
+Malleshwaram,West,13.0030,77.5690,15850
+Rajajinagar,West,12.9911,77.5529,14000
+Basaveshwaranagar,West,12.9900,77.5390,13000
+Tumkur Road,West,13.0450,77.4900,11000
+Mahalakshmi Layout,West,13.0100,77.5490,10000
+Vijayanagar,West,12.9719,77.5292,9850
+Chandra Layout,West,12.9700,77.5170,8400
+Rajarajeshwari Nagar,West,12.9250,77.5180,8350
+Jalahalli,West,13.0430,77.5460,8350
+Nagarbhavi,West,12.9620,77.5080,7700
+Kamakshipalya,West,12.9840,77.5280,7650
+Nandini Layout,West,13.0090,77.5400,7600
+Magadi Road,West,12.9760,77.5400,7000
+Nayandahalli,West,12.9420,77.5190,7000
+Peenya,West,13.0280,77.5180,6300
+Sunkadakatte,West,12.9960,77.5050,6100
+Kengeri,West,12.9070,77.4840,5800
+Bhuvaneshwari Nagar,West,13.0180,77.5190,5600
+Nelamangala,West,13.1003,77.3956,4500
+Bidadi,West,12.7990,77.3860,3800

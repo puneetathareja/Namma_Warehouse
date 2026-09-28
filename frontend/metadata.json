@@ -1,0 +1,6 @@
+{
+  "name": "Namma Warehouse",
+  "description": "Smart warehouse location and logistics network optimization simulator for Bengaluru and major cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

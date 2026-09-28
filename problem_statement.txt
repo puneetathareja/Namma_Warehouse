@@ -1,0 +1,38 @@
+GRIDPOINT
+Where should the warehouse go?
+Background
+An e-commerce company serves several neighborhoods from a central distribution network. Each neighborhood has a different number of daily orders and is located at a different geographical position. The company wants to establish one or more warehouses such that the overall delivery effort and cost are minimized.
+Problem Statement
+Build a Warehouse Location Optimization Platform that determines where the warehouse(s) should be located and which neighborhoods should be assigned to each warehouse. The system should minimize weighted delivery cost, where neighborhoods with more orders contribute more heavily to the objective.
+Core Requirements
+
+* Allow users to upload or enter neighborhood data including location and daily orders.
+* Visualize all neighborhood locations on a map.
+* Allow the user to select the number of warehouses.
+* Run an optimization algorithm to determine suitable warehouse locations.
+* Assign each neighborhood to its nearest or optimal warehouse.
+* Calculate total delivery distance and cost.
+* Display the optimized warehouse locations and assignments.
+* Compare the original arrangement with the optimized arrangement.
+* Consider warehouse capacity and maximum service radius where applicable.
+
+Bonus Features (Extra Points)
+
+* Support multiple warehouses.
+* Introduce limited warehouse capacity.
+* Consider maximum delivery radius.
+* Account for different vehicle types.
+* Include fuel costs.
+* Incorporate traffic-dependent delivery times.
+* Model changes in customer demand.
+* Explore the trade-off between infrastructure cost and delivery cost.
+
+Suggested Tech Stack
+Python / C++ / Java for optimization logic, clustering and algorithms, with React, Streamlit or similar frameworks for visualization. Mapping libraries such as Leaflet or Mapbox may be used for location visualization.
+Deliverable
+
+* Working prototype + demo video showing:
+* Neighborhood data → Location visualization → Warehouse optimization → Neighborhood assignment → Delivery cost comparison
+
+
+understand the whole project dont proceed

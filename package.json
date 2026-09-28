@@ -1,0 +1,21 @@
+{
+  "name": "namma-warehouse",
+  "version": "2.0.0",
+  "description": "Smart Warehouse Location & Logistics Network Optimization Platform",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "python backend/app.py",
+    "build": "npm --prefix frontend run build",
+    "install:all": "pip install -r backend/requirements.txt && npm --prefix frontend install"
+  },
+  "keywords": [
+    "warehouse-optimization",
+    "fastapi",
+    "react",
+    "vite",
+    "p-median",
+    "bengaluru-logistics"
+  ],
+  "license": "MIT"
+}
